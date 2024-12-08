@@ -34,7 +34,6 @@ PyQt Gui 를 사용하여 사용자로부터 IP주소, 액션 (서비스 시작/
 
 ### 3\. 사전 요구사항 \(Prerequisites\)
 #### 1. 필수 환경
-* Mac에서만 실행됩니다.
 * Python 3.8 이상
 * PyQt5 설치
 * sshpass 설치

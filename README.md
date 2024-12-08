@@ -16,7 +16,7 @@ PyQt Gui 를 사용하여 사용자로부터 IP주소, 액션 (서비스 시작/
 #### 2. 파일 구조 및 기능 설명
 1. 파일 구조
    ```
-    control_server/
+   control_server/
    ├── control_server.py   # PyQt5 GUI 애플리케이션 코드
    └── control_server.sh   # Bash 스크립트 (원격 서버에서 서비스 관리)
    ```
